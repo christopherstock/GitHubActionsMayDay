@@ -1,4 +1,4 @@
-const expressTR = require('express');
+const express = require('express');
 
 /** Host address to establish the Express.js server on. */
 const HOST = '0.0.0.0';
